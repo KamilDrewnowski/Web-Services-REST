@@ -1,4 +1,4 @@
-# Web-Services-REST
+# Web-Service-REST
 Rest service to convert arabic digits to roman and binary
 
 Punkt dostępowy
