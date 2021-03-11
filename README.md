@@ -1,5 +1,5 @@
 # Web-Services-REST
-Rest server to convert arabic digits to roman and binary
+Rest service to convert arabic digits to roman and binary
 
 Punkt dostępowy
 Punkt dostępowy API znajduje się pod adresem:
